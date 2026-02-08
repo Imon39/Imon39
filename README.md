@@ -15,25 +15,29 @@ I am a passionate **Computer Science & Engineering student** with a deep interes
 ---
 
 ### 🚀 Research Interests
-- **Few-Shot Learning:** Efficient classification with minimal data.
-- **Ponzi Scheme Detection:** Using **Split Learning** for privacy-preserving fraud detection.
-- **Healthcare AI:** Ovarian cancer prediction using CNNs and Uncertainty Estimation.
-- **Trustworthy AI:** Explainable AI (XAI) and misinformation detection.
+I am deeply interested in exploring and applying **intelligent systems and AI** across multiple domains, including:  
 
----
+- **Adaptive & Efficient AI:** Few-shot learning, transfer learning, and AI models that work with limited data.  
+- **Secure & Trustworthy AI:** Privacy-preserving ML (Split Learning), Explainable AI (XAI), and ethical AI for real-world impact.  
+- **Intelligent Systems for Social Good:** Fraud detection, risk prediction, and misinformation detection.  
+- **Healthcare AI & Bioinformatics:** Medical image analysis, disease prediction, and AI-driven diagnostics.  
+- **AI & IoT Integration:** Embedded intelligence, smart devices, and connected systems.  
+
+> I aim to contribute to projects that **bridge research and real-world applications**, enabling AI to solve critical challenges across industries.  
 
 ### 🛠️ Featured Projects
-* **[Fake News Detection System](https://github.com/Imon39/fake-news-api):** An ML-based system integrated with an Android app for real-time verification.
-* **Few-Shot Disease Classification:** A lightweight DL model for detecting diseases in fruits and vegetables.
-* **Ponzi Scheme Detector:** Research-based Split Learning model for secure financial monitoring.
-* **Virtual Art Gallery:** A creative web application built with HTML, CSS, and JS.
-
----
+* **[Fake News Detection System](https://github.com/Imon39/fake-news-api):** An ML-based system integrated with an Android app for real-time verification.  
+* **Few-Shot Disease Classification:** A lightweight DL model for detecting diseases in fruits and vegetables.  
+* **Ponzi Scheme Detector:** Research-based Split Learning model for secure financial monitoring.  
+* **Virtual Art Gallery:** A creative web application built with HTML, CSS, and JS.  
+* **[Smart Scholarship Agent](https://github.com/Imon39/smart-scholarship-agent)**  
+* **[Accident Risk Prediction](https://github.com/Imon39/Accident-Risk-Prediction)**
+* **Healthcare AI:** Ovarian cancer prediction using CNNs and Uncertainty Estimation.
 
 ### 🧠 Skills & Tools
 | Category | Skills / Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, C/C++, MATLAB |
+| **Languages** | Python, C/C++, MATLAB |
 | **ML Frameworks** | TensorFlow, Keras, PyTorch, Scikit-learn |
 | **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Tools & Platforms** | Jupyter Notebook, Android Studio, Git, GitHub, Dreamweaver |
