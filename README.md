@@ -30,8 +30,8 @@ I am deeply interested in exploring and applying **intelligent systems and AI** 
 * **Few-Shot Disease Classification:** A lightweight DL model for detecting diseases in fruits and vegetables.  
 * **Ponzi Scheme Detector:** Research-based Split Learning model for secure financial monitoring.  
 * **Virtual Art Gallery:** A creative web application built with HTML, CSS, and JS.  
-* **[Smart Scholarship Agent](https://github.com/Imon39/smart-scholarship-agent)**  
-* **[Accident Risk Prediction](https://github.com/Imon39/Accident-Risk-Prediction)**
+* **[Smart Scholarship Agent](https://github.com/Imon39/smart-scholarship-agent):** An AI-powered intelligent agent designed to assist students in discovering suitable scholarships based      on academic profile, eligibility criteria, and preferences. The system leverages rule-based reasoning and intelligent automation to reduce information overload and improve decision-      making.
+* **[Accident Risk Prediction](https://github.com/Imon39/Accident-Risk-Prediction):**  A machine learning-based risk assessment system that predicts accident probability using historical      and contextual data. The project focuses on data-driven safety analysis and demonstrates the application of predictive analytics for real-world risk prevention.
 * **Healthcare AI:** Ovarian cancer prediction using CNNs and Uncertainty Estimation.
 
 ### 🧠 Skills & Tools
