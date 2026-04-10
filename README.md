@@ -57,7 +57,7 @@ I am deeply interested in exploring and applying **intelligent systems and AI** 
 <p align="left">
 <a href="https://linkedin.com/in/imon-hossain-36048621a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Imon Hossain" /></a>
 <a href="https://www.kaggle.com/imonhossain" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="imonhossain" /></a>
-<a href="www.roxiemon10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Imon" /></a>
+<a href="imon.hossain39.official@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Imon" /></a>
 </p>
 
 ---
