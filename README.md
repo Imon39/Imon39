@@ -1,47 +1,46 @@
 # Hi there! 👋 I'm Imon Hossain
-### Final-year CSE Student @ DUET | AI & Machine Learning Researcher
+### Final-year CSE Student @ DUET | AI/ML Researcher — Few-Shot Learning, Generative Models & Medical AI
 
-I am a passionate **Computer Science & Engineering student** with a deep interest in **Artificial Intelligence** and **Intelligent Systems**. I specialize in bridging the gap between complex research and practical applications—from detecting financial frauds to diagnosing plant diseases.
-
----
-
-### 💡 Areas of Expertise
-- 🤖 **Machine Learning & Deep Learning** (CNNs, Ensemble Methods)
-- 🗣️ **Natural Language Processing (NLP)** & Fake News Detection
-- 👁️ **Computer Vision** & Medical Image Analysis
-- ⛓️ **Secure ML** (Split Learning, Privacy-Preserving AI)
-- 🌐 **IoT & Embedded Systems**
+I'm a final-year **Computer Science & Engineering** student at **Dhaka University of Engineering & Technology (DUET)**, working on **data-scarce machine learning** — few-shot learning and GANs — applied to real-world problems in **medical imaging, PCB inspection, and agriculture**. My work sits at the intersection of research and deployable systems: building models that perform well when labeled data is limited, and making their outputs trustworthy enough to actually use.
 
 ---
 
-### 🚀 Research Interests
-I am deeply interested in exploring and applying **intelligent systems and AI** across multiple domains, including:  
+### 🔬 Research Focus
+- **Few-Shot & Data-Scarce Learning** — training reliable models with minimal labeled data
+- **Generative Adversarial Networks (GANs)** — physics-constrained generative modeling for signal/image reconstruction
+- **Trustworthy & Explainable AI** — trust scoring, uncertainty-aware outputs, XAI
+- **Medical & Diagnostic AI** — non-invasive detection pipelines, medical image analysis
+- **Computer Vision** — lightweight architectures for resource-constrained deployment
 
-- **Adaptive & Efficient AI:** Few-shot learning, transfer learning, and AI models that work with limited data.  
-- **Secure & Trustworthy AI:** Privacy-preserving ML (Split Learning), Explainable AI (XAI), and ethical AI for real-world impact.  
-- **Intelligent Systems for Social Good:** Fraud detection, risk prediction, and misinformation detection.  
-- **Healthcare AI & Bioinformatics:** Medical image analysis, disease prediction, and AI-driven diagnostics.  
-- **AI & IoT Integration:** Embedded intelligence, smart devices, and connected systems.  
+> I'm currently exploring PhD/MS opportunities where I can push further on few-shot and generative methods for high-stakes, data-scarce domains.
 
-> I aim to contribute to projects that **bridge research and real-world applications**, enabling AI to solve critical challenges across industries.  
+---
 
-### 🛠️ Featured Projects
-* **[Fake News Detection System](https://github.com/Imon39/fake-news-api):** An ML-based system integrated with an Android app for real-time verification.  
-* **Few-Shot Disease Classification:** A lightweight DL model for detecting diseases in fruits and vegetables.  
-* **Ponzi Scheme Detector:** Research-based Split Learning model for secure financial monitoring.  
-* **Virtual Art Gallery:** A creative web application built with HTML, CSS, and JS.  
-* **[Smart Scholarship Agent](https://github.com/Imon39/smart-scholarship-agent):** An AI-powered intelligent agent designed to assist students in discovering suitable scholarships based      on academic profile, eligibility criteria, and preferences. The system leverages rule-based reasoning and intelligent automation to reduce information overload and improve decision-      making.
-* **[Accident Risk Prediction](https://github.com/Imon39/Accident-Risk-Prediction):**  A machine learning-based risk assessment system that predicts accident probability using historical      and contextual data. The project focuses on data-driven safety analysis and demonstrates the application of predictive analytics for real-world risk prevention.
-* **Healthcare AI:** Ovarian cancer prediction using CNNs and Uncertainty Estimation.
+### 🚀 Featured Projects
 
-### 🧠 Skills & Tools
+* **[Trustworthy Few-Shot GAN for PCB X-ray Reconstruction](https://github.com/Imon39/Trustworthy-FewShot-GAN-PCB-Xray)** — A physics-constrained few-shot GAN framework for reconstructing PCB X-ray images, with a built-in trust scoring module and a Streamlit dashboard for inspection. Achieves PSNR 30.69 dB / SSIM 0.8400 at 40-shot.
+
+* **[Few-Shot Plant Leaf Disease Classification](https://github.com/Imon39/Few-Shot-Plant-Leaf-Disease-Classification)** — A lightweight deep learning model for detecting plant leaf diseases under limited-data conditions. Co-authored paper **accepted at ICSASD 2026**.
+
+* **BioVitD-BD** — Undergraduate thesis research on non-invasive vitamin D deficiency detection using AI, applied to saliva/urine sample analysis.
+
+* **[Smart Scholarship Agent](https://github.com/Imon39/smart-scholarship-agent)** — A multi-agent AI system (built during a Kaggle × Google Agentic AI course) that helps students discover scholarships matched to their academic profile using rule-based reasoning and automation.
+
+* **[Fake News Detection System](https://github.com/Imon39/fake-news-api)** — An ML-based misinformation detection system integrated with an Android app for real-time verification.
+
+* **[Accident Risk Prediction](https://github.com/Imon39/Accident-Risk-Prediction)** — A machine learning risk-assessment system predicting accident probability from historical and contextual data.
+
+---
+
+### 🛠️ Skills & Tools
+
 | Category | Skills / Tools |
 | :--- | :--- |
-| **Languages** | Python, C/C++, MATLAB |
-| **ML Frameworks** | TensorFlow, Keras, PyTorch, Scikit-learn |
+| **Languages** | Python, C/C++,|
+| **ML/DL Frameworks** | PyTorch, TensorFlow, Keras, Scikit-learn |
 | **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Tools & Platforms** | Jupyter Notebook, Android Studio, Git, GitHub, Dreamweaver |
-| **Specialized** | Image Processing, XAI, Split Learning |
+| **Specialized** | Few-Shot Learning, GANs, Image Reconstruction, XAI, Machine Learning, Artifiicial Intelligence|
+| **Tools & Platforms** | Jupyter Notebook, Streamlit, Git, GitHub, Android Studio |
 
 ---
 
@@ -57,8 +56,8 @@ I am deeply interested in exploring and applying **intelligent systems and AI** 
 <p align="left">
 <a href="https://linkedin.com/in/imon-hossain-36048621a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Imon Hossain" /></a>
 <a href="https://www.kaggle.com/imonhossain" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="imonhossain" /></a>
-<a href="imon.hossain39.official@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Imon" /></a>
+<a href="mailto:imon.hossain39.official@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Imon" /></a>
 </p>
 
 ---
-> *“Turning complex AI models into actionable solutions that make a difference.”*
+> *"Making AI work when the data doesn't cooperate."*
