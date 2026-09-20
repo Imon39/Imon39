@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Imon Hossain
-### Final-year CSE Student @ DUET | AI/ML Researcher — Few-Shot Learning, Generative Models & Medical AI
+### Final-year CSE Student @ DUET | AI/ML Researcher — Computer vision |Machine Learning| Few-Shot Learning, Generative Models & Medical AI
 
 I'm a final-year **Computer Science & Engineering** student at **Dhaka University of Engineering & Technology (DUET)**, working on **data-scarce machine learning** — few-shot learning and GANs — applied to real-world problems in **medical imaging, PCB inspection, and agriculture**. My work sits at the intersection of research and deployable systems: building models that perform well when labeled data is limited, and making their outputs trustworthy enough to actually use.
 
